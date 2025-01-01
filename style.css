@@ -1,0 +1,18 @@
+body {
+    background-color: Green;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: adjust;
+}
+
+h1 {
+    align-self: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif 
+}
+
+button{
+    border-radius: soft;
+    color: red;
+    background-color: purple;
+    
+}
