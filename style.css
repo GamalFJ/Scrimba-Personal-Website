@@ -1,5 +1,5 @@
 body {
-    background-color: Green;
+    background-color: Gray;
     font-family: Helvetica;
     font-weight: bold;
     font-size: adjust;
@@ -14,5 +14,5 @@ button{
     border-radius: soft;
     color: red;
     background-color: purple;
-    
+
 }
