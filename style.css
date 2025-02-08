@@ -11,7 +11,7 @@ h2 {
 body {
     background-color: midnightblue;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
-    color: white;
+    color white;
     text-align: center;
 }
 a {
@@ -27,13 +27,14 @@ a {
 #email {
     background-color: darkgray;
     border-radius: 5px;
-    border-style: ;
+    border-style: outset;
 }
 #Subscription {
     background-color: grey;
     font-size:20px;
     font-weight: bold;
-    border-radius: 5px;
+    border-radius: 100px;
+    border-style: double;
     padding: 5px;
     display: inline-box;
     margin: 5px;
